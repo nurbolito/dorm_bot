@@ -1,1 +1,0 @@
-{ "nurbolium": { "Trash": 0, "Shopping": 0, "BigShopping": 0, "MoneySpent": 0, "FlatCleaning": 0, "RoomCleaning": 0 }, "astgot": { "Trash": 1, "Shopping": 1, "BigShopping": 0, "MoneySpent": 360, "FlatCleaning": 0, "RoomCleaning": 0 }, "Meyir01": { "Trash": 0, "Shopping": 1, "BigShopping": 0, "MoneySpent": 270, "FlatCleaning": 0, "RoomCleaning": 0 } }
