@@ -11,11 +11,11 @@
 Если у вас не установлен язык программирования Golang, [скачайте и устaновите](https://golang.org/doc/install) язык программирования Go. 
 
 Скачайте Go библиотеку для разработки телеграм бота по комманде:
-```shell
+```
 go get -u github.com/go-telegram-bot-api/telegram-bot-api
 ```
 Скачайте исходный код:
-```zsh
+```
 git clone https://github.com/nurbolito/dorm_bot.git
 ```
 Впишите свои данные в файле main.go
@@ -33,7 +33,7 @@ https://api.telegram.org/bot[bot_token]/getUpdates
 Вы получите JSON объект. Скопируйте графу chatId и вставте в переменную **adminChatId**.
 Тоже самое проделайте для группового чата. Скопируйте графу chatId и вставте в переменную **chatId**.
 
-```bash
+```
 go build
 ./dorm_bot
 ```
