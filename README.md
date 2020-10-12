@@ -19,7 +19,7 @@ go get -u github.com/go-telegram-bot-api/telegram-bot-api
 git clone https://github.com/nurbolito/dorm_bot.git
 ```
 Впишите свои данные в файле main.go
-```
+```go
 var chatId := 0 //chatId to add bot (int)
 var adminChatId := 0 //admins chatId to manage group (int)
 const botToken := "" //bot token here? you can take it from @BotFather 
